@@ -1,0 +1,25 @@
+S3 
+
+Casos de usos
+
+-Backup e restore
+-Disaster Recovery
+-Arquio
+-Hybrid cloud storage
+-Application hosting
+-Media hosting
+-Data lakes e data Alanytics
+-Softarw delivy
+-Static website
+
+
+- Cada arquivo é umbjeto
+- Nome unico global
+- Convenção de nome, sem uppercase, no underscore, 3 a 63 caracteres, nao um ip, começa com letra minuscula ou numero, sem prefixo e sem sufixo   
+
+- Objetos (Arquivos) tem uma chave 
+
+Tamanho maximo do objeto 5 tb 
+
+
+ 
